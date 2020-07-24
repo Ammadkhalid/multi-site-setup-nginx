@@ -8,3 +8,7 @@ docker network create nginx-proxy
 ```
 
 
+then start nginx-proxy container using:
+```
+docker-compose up -d
+```
